@@ -1,0 +1,49 @@
+[
+  { "id": 1,
+    "productName":"meat",
+    "releaseProduct": "2022-01-01",
+    "shelfLife":"2022-05-04",
+    "quantity": 100,
+    "cost": 500
+
+  },
+  { "id": 2,
+    "productName":"dried fruit",
+    "releaseProduct": "2022-02-01",
+    "shelfLife":"2022-05-04",
+    "quantity": 100,
+    "cost": 600
+
+  },
+  { "id": 3,
+    "productName":"grain",
+    "releaseProduct": "2022-02-01",
+    "shelfLife":"2022-05-04",
+    "quantity": 100,
+    "cost": 300
+
+  },
+  { "id": 4,
+    "productName":"flour",
+    "releaseProduct": "2022-02-01",
+    "shelfLife":"2022-05-04",
+    "quantity": 100,
+    "cost": 50
+
+  },
+  { "id": 5,
+    "productName":"fabric",
+    "releaseProduct": "2022-02-01",
+    "shelfLife":"2022-05-04",
+    "quantity": 100,
+    "cost": 640
+
+  },
+  { "id": 6,
+    "productName":"paint",
+    "releaseProduct": "2022-02-01",
+    "shelfLife":"2022-05-04",
+    "quantity": 100,
+    "cost": 560
+  }
+]
